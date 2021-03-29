@@ -1,21 +1,24 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`5954.11.04 - PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`PRIMEIRO SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto em discussão e em fase de planejamento.
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Luis Henrique Farina 
+- Tatiany Belem dos Santos
+- Marcelo Braga
+- Pedro Guimarães Santos
+- Wellington Teixeira dos Santos
 
 ## Professor
 
-- Mestre Yoda
+- Luiz Alberto
 
 # Documentação
 
