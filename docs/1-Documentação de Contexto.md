@@ -27,7 +27,7 @@ Este tema foi escolhido com o objetivo de facilitar a conexão entre trabalhador
 
 ## Público-Alvo
 
-Trabalhadores autônomos(Freelancers)
+Trabalhadores autônomos(Freelancers)<br>
 Empregadores
 
 
