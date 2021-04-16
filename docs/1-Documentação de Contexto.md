@@ -11,36 +11,31 @@
 <p>	Diante disso, torna-se fundamental que existam canais que funcionem como mediadores entre o prestador de serviço e o contratante, facilitando que o prestador encontre demanda de projetos, ao haver uma centralização das ofertas de trabalho. E, para o contratante conseguir encontrar a pessoa que solucione seu problema com maior rapidez e facilidade.</p>
 
 ## Problema
-A descentralização de anúncios de prestação/contratação de serviços específicos faz com que seja difícil encontrar prestadores de serviço com habilidades específicas.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+<p>O problema que este projeto busca resolver é a dispersão de trabalhadores autônomos e anúncios de projetos por empresas ou pessoas físicas pelo vasto “território”  da internet, na qual, há uma grande pulverização de oferta e procura por trabalhos freelancers, principalmente durante a pandemia.</p> 
+<p>A necessidade de distanciamento social e paralisação de muitas empresas criam o ambiente perfeito para esta classe de trabalhadores, que espalhados pelos muitos sites, torna-se trabalhoso encontrar um projeto que esteja de acordo com as habilidades do prestador de serviço, ou até mesmo, dificultando com que o empregador encontre mão de obra para realizar seu projeto. </p>
+<p>No entanto, não se vê no mercado uma iniciativa de ordenar e buscar esta integração organizada para conciliar oferta x demanda por estes trabalhos.</p>
 
 ## Objetivos
 
-Sistematizar/centralizar o anúncio deste tipo de serviço, conectando o empregador ao prestador de serviço freelancer/autônomo
-
-
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+<p>O objetivo geral deste trabalho é a criação de um portal de integração de empresas e outras fontes de demanda, com profissionais autônomos, inicialmente da área de programação e design gráfico.<p>
+<ul>
+Como objetivos específicos, podemos ressaltar:
+Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer desenvolvedores;
+Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer de design gráfico;
+Fornecer funcionalidades que permitam cadastro e divulgação de demanda de trabalhos por empresas e pessoas físicas;
+Fornecer funcionalidades que permitam a integração da oferta e demanda;
+Fornecer funcionalidades que permitam a interação entre os usuários, prestadores de serviço e  empresas e/ou pessoas físicas que buscam estes serviços;
+</ul>
 
 ## Justificativa
 
-Este tema foi escolhido com o objetivo de facilitar a conexão entre trabalhadores autônomos que oferecem um serviço específico para empregadores que buscam por estes serviços
+<p>Com a grande mudança de comportamento e forma de trabalho, estudo, reuniões, etc.. que estamos vivendo em função da pandemia, percebe-se a necessidade da evolução deste tipo de portal no mercado.</p>
+<p>É crescente neste cenário o modelo de trabalho home office, necessidade de aplicação de tecnologia nas atividades que migram do modelo presencial para o modelo on-line, bem como o aumento das necessidades das empresas em desenvolvimento de sistemas para suprir estas necessidades. </p>
+<p>Por outro lado, há um grande número de profissionais que se viram obrigados a buscar atividades alternativas para fonte de renda ou passaram a ser profissionais freelancer.</p>
+<p>A necessidade de integrar estas necessidades com o novo cenário mundial em que nos encontramos e que mudará em definitivo muitas relações de trabalho e ensino, justifica o desenvolvimento do trabalho. </p>
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Trabalhadores autônomos(Freelancers)<br>
-Empregadores
-
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+<p>O foco deste trabalho está no público que tem o objetivo e necessidade de divulgação de prestação de serviços na área de design gráfico e desenvolvimento de softwares e sistemas, bem como empresas de todos os portes que tenham a demanda por estes tipos de serviços ofertados.</p>
+<p>Todos os profissionais destas áreas citadas, sem restrição de idade, gênero e experiência poderão se cadastrar no portal para a divulgação dos seus respectivos trabalhos.</p>
