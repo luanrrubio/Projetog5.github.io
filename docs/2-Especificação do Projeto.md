@@ -4,54 +4,68 @@
 
 ## Personas
 <p>Segue abaixo as Personas consultadas durante o processo de especificação:</p>
+<div>
+ <table>
+  <thead>
+        <th></th>
+        <th>Rafaela Santos</th>
+        <th>Felipe Ramos</th>
 
-<p><strong><h3>Rafaela Santos</h3></strong>
-<ul>
-  <li><b>Idade</b>: 37 anos</li>
-  
-  <li><b>Ocupação:</b><br>
-  Desenvolvedor FrontEnd</li>
-  
-  <li><b>Experiência:</b><br>
-  Trabalhou como Dev Junior em uma StartUp focada em desenvolvimento Web;<br>
-  -Javascript (React)<br>
-  -HTML5<br>
-  -CSS (BootStrap)<br>
-  -Integração com APIs REST</li> 
-  
-  <li><b>Aplicativos:</b><br>
-  -Linkedin<br>
-  -Instagram<br>
-  -Github</li>
+  </thead>
 
-<li><b>Frustrações</b>:<br>
--Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto<br>
-- Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li></p>
-</ul>
+  <tbody id="tbody">
+        <td><b>Idade</b></td>
+        <td>37 anos</td>
+        <td>30 anos</td>
 
-<p><strong><h3>Felipe Ramos</h3></strong>
-<ul>
- <li><b>Idade</b>: 30 anos</li>
-  
- <li><b>Ocupação</b>:<br>
-  -Diretor de Design Gráfico focado em Marketing</li>
-  
- <li><b>Experiência:</b><br>
- -Direção Criativa;<br>
- -Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;<br>
- -Conhecimento em Pacote Office;<br>
- -Replicar elementos de uma identidade visual com consistência;<br>   
- -Domínio em After Effects.</li>
-
- <li><b>Aplicativos</b>:<br>
- -Linkedin<br>
- -Github<br>
- -Instagram</li>
- <li><b>Frustrações:</b><br>
-- Apesar do interesse em fazer projetos fora da empresa em que trabalha, acha muito trabalhoso encontrar anúncios recentes de projeto;<br>
-  - Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;<br>
-  - Não conseguir encontrar pessoas para realizar projetos específicos fora da empresa com facilidade;</li></p>
-</ul>
+   <tr><td><b>Ocupação </b></td>
+    <td>Desenvolvedor FrontEnd</td>
+    <td>Diretor de Design Gráfico focado em Marketing</td></tr>
+    <tr><td><b>Experiência</b></td>
+    <td>
+     <ul>
+      <li>Trabalhou como Dev Junior em uma StartUp focada em desenvolvimento Web;</li>
+      <li>Javascript (React)</li>
+      <li>HTML5</li>
+      <li>CSS (BootStrap)</li>
+      <li>Integração com APIs REST</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+      <li>Direção Criativa;</li>
+      <li>Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;</li>
+      <li>Conhecimento em Pacote Office;</li>
+      <li>Replicar elementos de uma identidade visual com consistência;</li>
+      <li>Domínio em After Effects.</li>
+     </ul></td></tr>
+     <tr><td><b>Redes de contato/procura de projetos</b></td>
+     <td>
+     <ul>
+      <li>Linkedin</li>
+      <li>Github</li>
+      <li>Instagram</li>
+     </ul></td>
+     <td>
+     <ul>
+      <li>Linkedin</li>
+      <li>Github</li>
+      <li>Instagram</li>
+      <li>Twitter</li>
+     </ul></td></tr>
+     <tr><td><b>Frustrações</b></td>
+     <td>
+     <ul>
+      <li>Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto.</li><br>
+      <li>Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li>
+     </ul></td>
+      <td><ul><li>Apesar do interesse em fazer projetos fora da empresa em que trabalha, acha muito trabalhoso encontrar anúncios recentes de projeto;</li>
+       <li>Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;</li>
+       <li>Não conseguir encontrar pessoas para realizar projetos específicos fora da empresa com facilidade</li>
+     </ul> </td></tr>
+  </tbody>
+ </table>
+</div>
 
 ## Histórias de Usuários
 
