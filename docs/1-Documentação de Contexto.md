@@ -18,15 +18,13 @@
 ## Objetivos
 
 <p>O objetivo geral deste trabalho é a criação de um portal de integração de empresas e outras fontes de demanda, com profissionais autônomos, inicialmente da área de programação e design gráfico.<p>
+<p>Como objetivos específicos, podemos ressaltar:</p>
 <ul>
-	<li>
-		Como objetivos específicos, podemos ressaltar:
-		Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer desenvolvedores;
-		Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer de design gráfico;
-		Fornecer funcionalidades que permitam cadastro e divulgação de demanda de trabalhos por empresas e pessoas físicas;
-		Fornecer funcionalidades que permitam a integração da oferta e demanda;
-		Fornecer funcionalidades que permitam a interação entre os usuários, prestadores de serviço e  empresas e/ou pessoas físicas que buscam estes serviços;
-	<li>
+	<li>Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer desenvolvedores;</li>
+	<li>Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer de design gráfico;</li>
+	<li>Fornecer funcionalidades que permitam cadastro e divulgação de demanda de trabalhos por empresas e pessoas físicas;</li>
+	<li>Fornecer funcionalidades que permitam a integração da oferta e demanda;</li>
+	<li>Fornecer funcionalidades que permitam a interação entre os usuários, prestadores de serviço e  empresas e/ou pessoas físicas que buscam estes serviços;</li>	
 </ul>
 
 ## Justificativa
