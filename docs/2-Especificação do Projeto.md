@@ -106,33 +106,53 @@
 
 <p>A tabela a seguir apresentará os requisitos funcionais do projeto, discriminando o nível de prioridade estabelecido de cada elemento.</p>
 
-ID
-Descrição
-Prioridade
-RF-01
-O site deve apresentar na página principal os objetivos de sua existência 
-Alta
-RF-02
-O site deve apresentar, assunto divulgado, uma imagem correspondente ao assunto apresentado (thumbnail)
-Média
-RF-03
-O site deve permitir ao usuário visualizar o texto completo da oferta de serviços e a qualificação e experiência do profissional
-Alta
-RF-04
-O site deve oferecer um menu adicional que permita ao usuário visualizar demandas ou ofertas por assuntos específicos
-Alta
-RF-05
-O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa.7,5
-Alta
-RF-06
-O site deve permitir visualizar as informações de contatos do mantenedor do site
-Média
-RF-07
-O site deve permitir o compartilhamento de informações entre profissionais, networking
-Alta
-RF-08
-O site deve permitir interação entre profissionais e empresas
-Alta
+<table class="table">
+  <thead>
+   <th>ID</th>
+   <th>Descrição</th>
+   <th>Prioridade</th>
+  </thead>
+
+  <tbody id="tbody">
+   <td><b>RF-01</b></td>
+   <td>O site deve deixar claro para o usuário qual o seu objetivo principal</td>
+   <td>Alta</td>
+
+   <tr>
+    <td><b>RF-02</b></td>
+    <td>O site deve possuir um menu que divida os anúncios para contratação de serviços e anúncios de prestadores de serviço disponíveis</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-03</b></td>
+    <td>O site deve possuir locais diferentes para anúncios de Design Gráfico e de Programação</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>R-04</b></td>
+    <td>O site deve permitir o compartilhamento de informações entre prestadores de serviço e contratantes, possibilitando o processo de Networking.</td>
+    <td>Alta</td></tr>
+    <tr><td><b>R-05</b></td>
+    <td>O site deve padronizar as informações necessárias para que um anúncio seja feito, tanto para procura de projetos, quanto para demanda de prestadores de serviço</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-05</b></td>
+    <td>O site deve ter uma ferramenta de remoção de anúncios de vagas que já foram ocupadas e/ou de anúncios de prestadores de serviço que não estão mais disponíveis</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-06</b></td>
+    <td>O site deve permitir a visualização de quantas pessoas se aplicaram para determinado anúncio ou contactaram determinado prestador de serviço</td>
+    <td>Média</td>
+   </tr>
+   <tr>
+    <td><b>RF-07</b></td>
+    <td>O site deve oferecer ferramentas para criação de um perfil personalizado, em que a Empresa/Pessoa Física ou prestador de serviço possa específicar seus requisítos, habilidades.</td>
+    <td>Média</td>
+   </tr>
+  </tbody>
+ </table>
 
 
 ### Requisitos não Funcionais
