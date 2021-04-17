@@ -29,7 +29,6 @@
 - Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li></p>
 
 <p><strong>Felipe Ramos</strong><br>
-  
 <ul>
   <li><b>Idade</b>: 30</li>
   
