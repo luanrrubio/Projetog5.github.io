@@ -27,6 +27,7 @@
 <li><b>Frustrações</b>:<br>
 -Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto<br>
 - Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li></p>
+</ul>
 
 <p><strong><h3>Felipe Ramos</h3></strong><br>
 <ul>
