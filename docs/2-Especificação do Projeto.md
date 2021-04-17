@@ -47,35 +47,53 @@
  -Linkedin<br>
  -Github<br>
  -Instagram</li>
- <li><b>Frustrações:<b><br>
+ <li><b>Frustrações:</b><br>
 - Apesar do interesse em fazer projetos fora da empresa em que trabalha, acha muito trabalhoso encontrar anúncios recentes de projeto;<br>
-  - Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;</li></p>
+  - Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;<br>
+  - Não conseguir encontrar pessoas para realizar projetos específicos fora da empresa com facilidade;</li></p>
 </ul>
 
 ## Histórias de Usuários
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-Eu como …  [PERSONA]
-… quero/desejo … 
-[O QUE]
-… para ....
-[POR QUE]
-Rafaela Santos
-Ter acesso à demandas do mercado para desenvolvimento na área de mercado financeiro
-Os pontos de trabalho em minha cidade, estão fechados, dificultando a busca por trabalho.
-Rafaela Santos
-Interagir com empresas que demandam serviços freelancer
-Estar inserida no mercado de trabalho mesmo nesta pandemia
-Rafaela Santos
-Estar atualizada em relação às novas necessidades de desenvolvimento de sistemas e softwares
-Acompanhar a evolução das demandas das empresas inseridas no mercado
-Felipe Ramos
-Fazer anúncio de vagas relacionadas a TI
-Disponibilizar vagas de grupos de interesse comum
-Felipe Ramos
-Poder realizar uma pesquisa sobre vagas acerca de um tema específico
-Localizar vagas específicas e conseguir maior objetividade
+<style>
+    table, table th, tbody, tbody td, tbody tr{
+      border: 2px solid black;
+      border-collapse: collapse;
+    }
+  </style>
+  <div class="container2">
+
+    <table class="table">
+      <thead>
+        <th>Eu como [Persona]</th>
+        <th>Quero/Desejo</th>
+        <th>Para</th>
+      </thead>
+
+      <tbody id="tbody">
+        <td>Rafaela Santos</td>
+        <td>Conseguir localizar anúncios com oportunidades de projetos Freelancer facilmente.</td>
+        <td>Conseguir trabalhar de forma remota, sem uma relação empregatícia tradicional.</td>
+
+        <tr><td>Rafaela Santos</td>
+        <td>Interagir com empresas que possuem demandas de projetos Freelancer</td>
+        <td>Estar inserida no mercado de trabalho, mesmo trabalhando de casa, principalmente durante a pandemia</td></tr>
+        <tr><td>Rafaela Santos</td>
+          <td>Estar atualizada em relação às novas necessidades de mercado na área de programação</td>
+          <td>Construir uma relação de clientes para que eu possa manter este estilo de vida, trabalhando de forma remota e autônoma</td></tr>
+          <tr><td>Felipe Ramos</td>
+            <td>Encontrar vagas disponíveis para projetos pontuais</td>
+            <td>Incrementar minha renda</td></tr>
+            <tr><td>Felipe Ramos</td>
+              <td>Poder realizar uma pesquisa sobre prestadores de serviço disponíveis na área do Design Gráfico</td>
+              <td>Contactar e contratar, se estiver precisando, para realizar projetos pontuais para mim e/ou para a empresa em que trabalho </td></tr>
+
+
+      </tbody>
+    </table>
+  </div>
 
 ## Requisitos
 
