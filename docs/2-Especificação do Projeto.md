@@ -5,7 +5,7 @@
 ## Personas
 <p>Segue abaixo as Personas consultadas durante o processo de especificação:</p>
 
-<p><strong>Rafaela Santos</strong>
+<p><strong><h3>Rafaela Santos</h3></strong>
 <ul>
   <li><b>Idade</b>: 37</li>
   
