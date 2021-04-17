@@ -69,10 +69,7 @@
 
 ## Histórias de Usuários
 
-A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
-
-
- <div class="container2">
+<p>Foram registradas as seguintes histórias de usuário, a partir das necessidades das personas identificadas para o projeto:</p>
 
    <table class="table">
     <thead>
@@ -98,19 +95,16 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
        <tr><td>Felipe Ramos</td>
        <td>Poder realizar uma pesquisa sobre prestadores de serviço disponíveis na área do Design Gráfico</td>
        <td>Contactar e contratar, se estiver precisando, para realizar projetos pontuais para mim e/ou para a empresa em que trabalho </td></tr>
-
-
    </tbody>
   </table>
- </div>
 
-## Requisitos
 
-O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+## Requisitos do Projeto
+<p>As possibilidades de interação dos usuários com o produto final é definido a partir dos requisitos funcionais e não funcionais. É necessário a descrição da prioridade destes requisitos, assim, determinando os aspectos que o sistema deverá apresentar quando estiver concluído.</p>
 
 ### Requisitos Funcionais
 
-A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+<p>A tabela a seguir apresentará os requisitos funcionais do projeto, discriminando o nível de prioridade estabelecido de cada elemento.</p>
 
 ID
 Descrição
