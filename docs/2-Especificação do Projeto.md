@@ -5,9 +5,9 @@
 ## Personas
 <p>Segue abaixo as Personas consultadas durante o processo de especificação:</p>
 
-<strong>Rafaela Santos</strong>
+<p><strong>Rafaela Santos</strong>
 <ul>
-  <li>Idade: 37</li>
+  <li><b>Idade</b>: 37</li>
   
   <li>Ocupação:<br>
   Desenvolvedor FrontEnd</li>
@@ -25,20 +25,28 @@
   -Github</li>
 
 <li><b>Frustrações</b>:<br>
-Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto</li>
+-Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto<br>
+- Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li></p>
 
+<p><strong>Felipe Ramos</strong><br>
+  
+<ul>
+  <li><b>Idade</b>: 30</li>
+  
+  <li><b>Ocupação</b>:<br>
+    - Diretor de Design Gráfico focado em Marketing</li>
+  
+  <li><b>Experiência:</b><br>
+   -Direção Criativa;
+   -Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;
+   -Conhecimento em Pacote Office;
+   -Replicar elementos de uma identidade visual com consistência;   
+   -Domínio em After Effects.</li>
 
-Felipe Ramos
-Idade: 35
-Ocupação: 
-
-Experiência com Java, SQL, HTML, React e CSS.
-Spring, Angular, JSP, ALM, Tomcat, Git, JasperReports, JSTL, Spring boot, Hibernate, Linux (básico), JPA, Pacote Office (básico), Agile e Windows.
-Aplicativos:
-
-Linkedin
-Github
-instagran
+<li><b>Aplicativos</b>:
+  -Linkedin
+  -Github
+  -instagran
 Frustrações: 
 Dificuldade na busca de novas oportunidade.
 
