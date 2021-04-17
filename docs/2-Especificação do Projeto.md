@@ -34,19 +34,19 @@
   <li><b>Idade</b>: 30</li>
   
   <li><b>Ocupação</b>:<br>
-    - Diretor de Design Gráfico focado em Marketing</li>
+   -Diretor de Design Gráfico focado em Marketing</li>
   
   <li><b>Experiência:</b><br>
-   -Direção Criativa;
-   -Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;
-   -Conhecimento em Pacote Office;
-   -Replicar elementos de uma identidade visual com consistência;   
-   -Domínio em After Effects.</li>
+  -Direção Criativa;
+  -Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;
+  -Conhecimento em Pacote Office;
+  -Replicar elementos de uma identidade visual com consistência;   
+  -Domínio em After Effects.</li>
 
-<li><b>Aplicativos</b>:
+  <li><b>Aplicativos</b>:
   -Linkedin
   -Github
-  -instagran
+  -Instagran
 Frustrações: 
 Dificuldade na busca de novas oportunidade.
 
