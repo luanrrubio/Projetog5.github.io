@@ -7,7 +7,7 @@
 
 <p><strong><h3>Rafaela Santos</h3></strong>
 <ul>
-  <li><b>Idade</b>: 37</li>
+  <li><b>Idade</b>: 37 anos</li>
   
   <li><b>Ocupação:</b><br>
   Desenvolvedor FrontEnd</li>
@@ -29,9 +29,9 @@
 - Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li></p>
 </ul>
 
-<p><strong><h3>Felipe Ramos</h3></strong><br>
+<p><strong><h3>Felipe Ramos</h3></strong>
 <ul>
- <li><b>Idade</b>: 30</li>
+ <li><b>Idade</b>: 30 anos</li>
   
  <li><b>Ocupação</b>:<br>
   -Diretor de Design Gráfico focado em Marketing</li>
