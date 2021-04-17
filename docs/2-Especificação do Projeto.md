@@ -1,30 +1,31 @@
 # Especificações do Projeto
-A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+<p>A participação dos usuários foi o pontapé inicial para que pudesse ser determinado o déficit no mercado que este projeto iria suprir. O processo foi feito a partir das observações feitas pelas personas em entrevistas, compreendendo, desta forma, as necessidades dos usuários alvo do projeto.</p>
+<p>Os dados foram coletados a partir de Personas e Histórias de usuários.</p>
 
 ## Personas
-As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+<p>Segue abaixo as Personas consultadas durante o processo de especificação:</p>
 
-Rafaela Santos
-Idade: 37
-Ocupação:
-Experiência com sistema de mercado financeiro 
-Azure SQL. 
-Orientação a objeto (C#, .Net Core). 
-Experiência com Front (Razor/Blazor). 
-Desenvolvimento de APIs REST. 
-MSSQL. 
-Experiência com times Scrum.  
-Aplicativos:
+<strong>Rafaela Santos</strong>
+<ul>
+  <li>Idade: 37</li>
+  
+  <li>Ocupação:<br>
+  Desenvolvedor FrontEnd</li>
+  
+  <li><b>Experiência:</b><br>
+  Trabalhou como Dev Junior em uma StartUp focada em desenvolvimento Web;<br>
+  -Javascript (React)<br>
+  -HTML5<br>
+  -CSS (BootStrap)<br>
+  -Integração com APIs REST</li> 
+  
+  <li><b>Aplicativos:</b><br>
+  -Linkedin<br>
+  -Instagram<br>
+  -Github</li>
 
-Instagram
-Github
-
-
-Frustrações:
-Os pontos de trabalho em minha cidade, estão fechados, dificultando a busca por trabalho.
-
-
-
+<li><b>Frustrações</b>:<br>
+Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto</li>
 
 
 Felipe Ramos
