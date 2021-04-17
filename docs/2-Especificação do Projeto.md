@@ -9,7 +9,7 @@
 <ul>
   <li><b>Idade</b>: 37</li>
   
-  <li>Ocupação:<br>
+  <li><b>Ocupação:</b><br>
   Desenvolvedor FrontEnd</li>
   
   <li><b>Experiência:</b><br>
@@ -28,27 +28,27 @@
 -Depois de pedir demissão da StartUp com o intuito de trabalhar como Freelancer, não consegui encontrar um site que organizasse os anúncios de oportunidade de projeto<br>
 - Não estou conseguindo trabalho de forma consistente, por não ter uma base de clientes para oferecer meus serviços.</li></p>
 
-<p><strong>Felipe Ramos</strong><br>
+<p><strong><h3>Felipe Ramos</h3></strong><br>
 <ul>
-  <li><b>Idade</b>: 30</li>
+ <li><b>Idade</b>: 30</li>
   
-  <li><b>Ocupação</b>:<br>
-   -Diretor de Design Gráfico focado em Marketing</li>
+ <li><b>Ocupação</b>:<br>
+  -Diretor de Design Gráfico focado em Marketing</li>
   
-  <li><b>Experiência:</b><br>
-  -Direção Criativa;
-  -Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;
-  -Conhecimento em Pacote Office;
-  -Replicar elementos de uma identidade visual com consistência;   
-  -Domínio em After Effects.</li>
+ <li><b>Experiência:</b><br>
+ -Direção Criativa;<br>
+ -Domínio do pacote Adobe Creative Suite: Photoshop, Illustrator e InDesign;<br>
+ -Conhecimento em Pacote Office;<br>
+ -Replicar elementos de uma identidade visual com consistência;<br>   
+ -Domínio em After Effects.</li>
 
-  <li><b>Aplicativos</b>:
-  -Linkedin
-  -Github
-  -Instagran
-Frustrações: 
-Dificuldade na busca de novas oportunidade.
-
+ <li><b>Aplicativos</b>:<br>
+ -Linkedin<br>
+ -Github<br>
+ -Instagram</li>
+<li><b>Frustrações:<b><br>
+- Apesar do interesse em fazer projetos fora da empresa em que trabalha, acha muito trabalhoso encontrar anúncios recentes de projeto;<br>
+- Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;
 
 ## Histórias de Usuários
 
