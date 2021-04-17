@@ -1,6 +1,6 @@
 # Introdução
 
-<p>O século XXI foi marcado por um processo que mudou a dinâmica do mundo, um processo de integração espacial, social e econômica, a Globalização, um conceito que tem sido concebida como ação à distância(quando os atos de agentes sociais de um lugar podem ter consequências significativas  para “terceiros distantes)(DAVID HELD, ANTHONY MCGREW, 2001,pg 11).</p>
+<p>&nbsp O século XXI foi marcado por um processo que mudou a dinâmica do mundo, um processo de integração espacial, social e econômica, a Globalização, um conceito que tem sido concebida como ação à distância(quando os atos de agentes sociais de um lugar podem ter consequências significativas  para “terceiros distantes)(DAVID HELD, ANTHONY MCGREW, 2001,pg 11).</p>
 	
 <p>No âmbito econômico, a Globalização traz para si a integração das empresas num plano mundial, que é muito bem definida (Joffre, 1996, apud Braumann, 1999, pg. 73) como um estado de internacionalização avançada da empresa que supõe a integração das suas atividades num plano mundial em todas as suas dimensões: gestão, controle financeiro, pesquisa e desenvolvimento (research & development), produção e venda.</p>
 	
