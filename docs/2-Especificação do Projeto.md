@@ -57,12 +57,7 @@
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-<style>
-    table, table th, tbody, tbody td, tbody tr{
-      border: 2px solid black;
-      border-collapse: collapse;
-    }
-  </style>
+
  <div class="container2">
 
    <table class="table">
