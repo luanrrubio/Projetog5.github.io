@@ -46,9 +46,10 @@
  -Linkedin<br>
  -Github<br>
  -Instagram</li>
-<li><b>Frustrações:<b><br>
+ <li><b>Frustrações:<b><br>
 - Apesar do interesse em fazer projetos fora da empresa em que trabalha, acha muito trabalhoso encontrar anúncios recentes de projeto;<br>
-- Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;
+  - Não encontrou uma rede eficiente em que consiga anunciar seu trabalho como Freelancer;</li></p>
+</ul>
 
 ## Histórias de Usuários
 
