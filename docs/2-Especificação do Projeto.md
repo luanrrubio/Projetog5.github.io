@@ -104,7 +104,7 @@
 
 ### Requisitos Funcionais
 
-<p>A tabela a seguir apresentará os requisitos funcionais do projeto, discriminando o nível de prioridade estabelecido de cada elemento.</p>
+<p>A tabela a seguir apresentará os requisitos funcionais do projeto, discriminando o nível de prioridade estabelecido entre cada elemento.</p>
 
 <table class="table">
   <thead>
@@ -129,10 +129,10 @@
     <td>Alta</td>
    </tr>
    <tr>
-    <td><b>R-04</b></td>
+    <td><b>RF-04</b></td>
     <td>O site deve permitir o compartilhamento de informações entre prestadores de serviço e contratantes, possibilitando o processo de Networking.</td>
     <td>Alta</td></tr>
-    <tr><td><b>R-05</b></td>
+    <tr><td><b>RF-05</b></td>
     <td>O site deve padronizar as informações necessárias para que um anúncio seja feito, tanto para procura de projetos, quanto para demanda de prestadores de serviço</td>
     <td>Alta</td>
    </tr>
@@ -157,23 +157,37 @@
 
 ### Requisitos não Funcionais
 
-A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+<p>A tabela a seguir apresentará os requisitos não funcionais do projeto, discriminando o nível de prioridade estabelecido entre cada elemento.</p>
 
-ID
-Descrição
-Prioridade
-RNF-01
-O site deve ser publicado em um ambiente acessível publicamente na Internet; 
-Alta
-RNF-02
-O site deverá ser responsivo permitindo a visualização em um celular de forma adequada
-Alta
-RNF-03
-O site deve ter bom nível de contraste entre os elementos da tela em conformidade 
-Média
-RNF-04
-O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)
-Alta
+<table class="table">
+ <thead>
+  <th>ID</th>
+  <th>Descrição</th>
+  <th>Prioridade</th>
+ </thead>
+
+ <tbody id="tbody">
+  <td><b>RNF-01</b></td>
+  <td>O projeto deve ser publicado em um ambiente acessível</td>
+  <td>Alta</td>
+
+  <tr>
+   <td><b>RNF-02</b></td>
+   <td>O projeto deverá estar adequado para qualquer tipo de dispositivo que acesse possa acessa-lo, mobile, desktop, notebook...</td>
+   <td>Alta</td>
+  </tr>
+  <tr>
+   <td><b>RNF-03</b></td>
+   <td>O site deve ser estéticamente agradável, contrastando-se entre os demais elementos ofertados pelos desenvolvedores.</td>
+   <td>Média</td>
+  </tr>
+  <tr>
+   <td><b>RNF-04</b></td>
+   <td>O site deve apresentar compatibilidade com os navegadores web do mercado, focando nos mais utilizados(Microsoft Edge, Mozilla Firefox, Google Chrome).</td>
+   <td>Alta</td></tr>
+  </tr>
+ </tbody>
+</table>
 
 ## Restrições
 
