@@ -19,23 +19,25 @@
 
 <p>O objetivo geral deste trabalho é a criação de um portal de integração de empresas e outras fontes de demanda, com profissionais autônomos, inicialmente da área de programação e design gráfico.<p>
 <ul>
-Como objetivos específicos, podemos ressaltar:
-Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer desenvolvedores;
-Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer de design gráfico;
-Fornecer funcionalidades que permitam cadastro e divulgação de demanda de trabalhos por empresas e pessoas físicas;
-Fornecer funcionalidades que permitam a integração da oferta e demanda;
-Fornecer funcionalidades que permitam a interação entre os usuários, prestadores de serviço e  empresas e/ou pessoas físicas que buscam estes serviços;
+	<li>
+		Como objetivos específicos, podemos ressaltar:
+		Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer desenvolvedores;
+		Fornecer funcionalidades que permitam cadastro e divulgação de trabalhos ofertados por profissionais freelancer de design gráfico;
+		Fornecer funcionalidades que permitam cadastro e divulgação de demanda de trabalhos por empresas e pessoas físicas;
+		Fornecer funcionalidades que permitam a integração da oferta e demanda;
+		Fornecer funcionalidades que permitam a interação entre os usuários, prestadores de serviço e  empresas e/ou pessoas físicas que buscam estes serviços;
+	<li>
 </ul>
 
 ## Justificativa
 
-<p>Com a grande mudança de comportamento e forma de trabalho, estudo, reuniões, etc.. que estamos vivendo em função da pandemia, percebe-se a necessidade da evolução deste tipo de portal no mercado.</p>
-<p>É crescente neste cenário o modelo de trabalho home office, necessidade de aplicação de tecnologia nas atividades que migram do modelo presencial para o modelo on-line, bem como o aumento das necessidades das empresas em desenvolvimento de sistemas para suprir estas necessidades. </p>
-<p>Por outro lado, há um grande número de profissionais que se viram obrigados a buscar atividades alternativas para fonte de renda ou passaram a ser profissionais freelancer.</p>
-<p>A necessidade de integrar estas necessidades com o novo cenário mundial em que nos encontramos e que mudará em definitivo muitas relações de trabalho e ensino, justifica o desenvolvimento do trabalho. </p>
+<p>A pandemia tem forçado as pessoas a mudarem seus comportamentos, a forma de se trabalhar, estudar, fazer reuniões e qualquer outra atividade em grupo está sendo feita de forma remota, distante.</p>
+<p>Neste cenário, o modelo de trabalho em casa, ou melhor dizendo, Home Office, é crescente, amplificando ainda mais a necessidade de aplicação de tecnologia nas atividades que migram do modelo presencial para o modelo on-line, remoto.</p>
+<p>Desta forma, há um grande número de profissionais que, no intuito de incrementar a renda ou trabalhar de forma autônoma, sem os laços tradicionais da relação de trabalho, se tornam profissionais freelancer.</p>
+<p>Assim, este trabalho se justifica para suprir as necessidades de mercado, que surgem como sintomas deste cenário pandêmico que alterou a base das relações sociais, trabalhistas e econômicas.</p>
 
 
 ## Público-Alvo
 
-<p>O foco deste trabalho está no público que tem o objetivo e necessidade de divulgação de prestação de serviços na área de design gráfico e desenvolvimento de softwares e sistemas, bem como empresas de todos os portes que tenham a demanda por estes tipos de serviços ofertados.</p>
-<p>Todos os profissionais destas áreas citadas, sem restrição de idade, gênero e experiência poderão se cadastrar no portal para a divulgação dos seus respectivos trabalhos.</p>
+<p>O público alvo deste projeto são pessoas ou empresas que possuem o objetivo de divulgar seus serviços na área de design gráfico e de desenvolvimento de softwares e sistemas e/ou contratar mão de obra para realizar determinados projetos.</p>
+<p>Assim, busca atingir todos os profissionais das áreas supracitadas, contanto que estejam legalmente qualificados para realizar atividade profissional, independente de gênero e experiência.</p>
