@@ -192,14 +192,25 @@
 ## Restrições
 
 
-As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+<p>As restrições para o desenvolvimento deste projeto, configurando-se nas limitações pré-definidas para a sua execução estão dispostas na tabela a seguir.</p>
+<table class="table">
+  <thead>
+   <th>ID</th>
+   <th>Descrição</th>
+  </thead>
 
-ID
-Descrição
-RE-01
-O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de XX/XX/2021.
-RE-02
-O aplicativo deve se restringir às tecnologias básicas da Web no Frontend
-RE-03
-A equipe não pode subcontratar o desenvolvimento do trabalho.
+  <tbody id="tbody">
+   <td><b>RE-01</b></td>
+   <td>O projeto deverá ser desenvolvido até o final do semestre letivo.</td>
+   <tr>
+    <td><b>RE-02</b></td>
+    <td>As tecnologias utilizadas no projeto se restringirão às tecnologias básicas de Web FrontEnd</td>
+   </tr>
+   <tr>
+    <td><b>RE-03</b></td>
+    <td>Os desenvolvedores do projeto não poderão contratar terceiros para a realização do desenvolvimento do trabalho.</td>
+   </tr>
+  </tbody>
+ </table>
+
 
