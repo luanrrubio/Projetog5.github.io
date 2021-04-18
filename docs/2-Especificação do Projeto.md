@@ -1,5 +1,5 @@
 # Especificações do Projeto
-<p>A participação dos usuários foi o pontapé inicial para que pudesse ser determinado o déficit no mercado que este projeto iria suprir. O processo foi feito a partir das observações feitas pelas personas em entrevistas, compreendendo, desta forma, as necessidades dos usuários alvo do projeto.</p>
+<p>A participação dos usuários foi o pontapé inicial para que pudessemos determinar o déficit no mercado que este projeto iria suprir. O processo foi feito a partir das observações feitas pelas personas em entrevistas, compreendendo, desta forma, as necessidades dos usuários alvo do projeto.</p>
 <p>Os dados foram coletados a partir de Personas e Histórias de usuários.</p>
 
 ## Personas
