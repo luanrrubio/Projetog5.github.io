@@ -5,4 +5,4 @@ HELD, David Held; MCGREW, Anthony MCGrew. <b>Prós e Contras da Globalização</
 
 BRAUMANN, Pedro Jorge. Tecnologia, Economia e Globalização.<b> IV Encontro Iberamericano de Ciência da Comunicação</b>, [s. l.], 14 abr. 2008. Disponível em: https://periodicos.fclar.unesp.br/estudos/article/view/750. Acesso em: 14 abr. 2021.
 
-BAUMAN, Zygmunt. Modernidade Líquida. [S. l.]: Zahar, 2014.
+BAUMAN, Zygmunt. <b>Modernidade Líquida</b>. [S. l.]: Zahar, 2014.
