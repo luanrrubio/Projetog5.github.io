@@ -137,17 +137,17 @@
     <td>Alta</td>
    </tr>
    <tr>
-    <td><b>RF-05</b></td>
+    <td><b>RF-06</b></td>
     <td>O site deve ter uma ferramenta de remoção de anúncios de vagas que já foram ocupadas e/ou de anúncios de prestadores de serviço que não estão mais disponíveis</td>
     <td>Alta</td>
    </tr>
    <tr>
-    <td><b>RF-06</b></td>
+    <td><b>RF-07</b></td>
     <td>O site deve permitir a visualização de quantas pessoas se aplicaram para determinado anúncio ou contactaram determinado prestador de serviço</td>
     <td>Média</td>
    </tr>
    <tr>
-    <td><b>RF-07</b></td>
+    <td><b>RF-08</b></td>
     <td>O site deve oferecer ferramentas para criação de um perfil personalizado, em que a Empresa/Pessoa Física ou prestador de serviço possa específicar seus requisítos, habilidades.</td>
     <td>Média</td>
    </tr>
