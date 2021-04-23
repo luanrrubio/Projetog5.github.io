@@ -15,6 +15,7 @@ Projeto em discussão e em fase de planejamento.
 - Marcelo Braga
 - Pedro Guimarães Santos
 - Wellington Teixeira dos Santos
+- Luan Rubio
 
 ## Professor
 
