@@ -19,7 +19,7 @@ Projeto em discussão e em fase de planejamento.
 
 ## Professor
 
-- Luiz Alberto
+- Luiz Alberto Ferreira
 
 # Documentação
 
