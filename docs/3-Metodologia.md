@@ -27,7 +27,9 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+<p> A configuração do projeto foi feita a partir da especificação das tarefas que deverão ser realizadas durante o desenvolvimento, especificando o que deverá ser documentado e como deverá ser documentado. As tags serão usadas como forma de supervisionar o que está sendo realizado, para que haja controle no que está sendo desenvolvido, testado, ainda possui erros, e o que já foi testado e está estável. Para que a equipe possa implementar em partes a versão do software sem conflitos.</p>
+<p> A gerência de issues será realizada a partir da revisão no desenvolvimento ou durante o próprio desenvolvimento, quando o desenvolvedor encontrar alguma atividade que depende de outra, instabilidade, identificação de bugs, necessidade de adição de uma nova funcionalidade ou, até mesmo, a melhoria.</p>
+
 
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
