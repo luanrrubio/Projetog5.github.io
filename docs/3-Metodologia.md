@@ -62,8 +62,18 @@ A equipe escolheu o método de desenvolvimento de projeto com base no Scrum, org
 
 ### Processo
 
+O Scrum foi implementado primeiramente ao decidir o papel individual de cada membro da equipe, após isso, será realizada uma reunião entre a equipe para determinar as tarefas a serem trabalhadas(Backlog), após isto, será determinado o que deverá ser trabalhado para que estas tarefas sejam cumpridas com êxito(To do). Após isso, quando uma tarefa for iniciada, ela será movida para "em andamento"(doing). Após a conclusão de determinada tarefa ela será testada(Test) e se funcionar sem erro, será considerada terminada(Done). Quando uma tarefa estiver impedida de ser concluida, ela será taxada como uma tarefa presa(Locked)  
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
+A lista descrita acima será desenhada da seguinte forma:
+<ul>
+ <li>Backlog</li>
+ <li>To do</li>
+ <li>Doing</li>
+ <ul>
+  <li>Locked</li>
+ </ul>
+ <li>Done</li>
+</ul>
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
