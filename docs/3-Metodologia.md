@@ -39,8 +39,19 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe escolheu o método de desenvolvimento de projeto com base no Scrum, organizando-se da seguinte maneira:
 
+<ul>
+ <li> Scrum Master: Wellington Santos</li>
+ <li> Product Owner: Pedro Guimarães Santos</li>
+ <li> Equipe de Desenvolvedores:</li>
+ <ul>
+  <li>Luis Henrique Farina</li>
+  <li>Tatiany Belem dos Santos</li> 
+  <li>Marcelo Braga</li> 
+  <li>Luan Rubio</li>
+ </ul>
+</ul>
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
 > Projeto](https://mindmaster.com.br/scrum-11-passos/)
