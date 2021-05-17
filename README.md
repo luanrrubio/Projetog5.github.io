@@ -11,7 +11,7 @@ Projeto em discussão e em fase de planejamento.
 ## Integrantes
 
 - Luis Henrique Farina 
-- Tatiany Belem dos Santos
+- Tatiany Belém dos Santos
 - Marcelo Braga
 - Pedro Guimarães Santos
 - Wellington Teixeira dos Santos
