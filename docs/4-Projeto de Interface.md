@@ -20,10 +20,15 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 
 ## Wireframes
+<p>Os protótipos foram criados para facilitar a visualização dos desenvolvedores, sugerindo uma estrutura fácil, simples e acessível para o usuário.</p>
+<p> A tela incial possui poucos elementos para facilitar a navegação, o que deixa explícito a proposta do projeto e o que o usuário deve fazer para iniciar a navegação. O design moderno e centralizado permite que o usuário acesse a plataforma com confiança e sem dificuldade.</p>
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![WhatsApp Image 2021-05-17 at 16 09 00](https://user-images.githubusercontent.com/80483432/118543197-5bb48a00-b72a-11eb-85b0-918475f2059f.jpeg)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+<p> O segundo protótipo, segue a mesma toada da página inicial, também foca na acessibilidade e maior absorção de informações pelo usuário no menor tempo possível. Os elementos centralizados e bem especificados facilita a navegação.</p>
+
+![WhatsApp Image 2021-05-17 at 16 09 33](https://user-images.githubusercontent.com/80483432/118543245-696a0f80-b72a-11eb-89ee-c8109a044123.jpeg)
+<p> O programa utilizado para fazer os protótipos foi o Pencil Project (https://pencil.evolus.vn/).</p>
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
