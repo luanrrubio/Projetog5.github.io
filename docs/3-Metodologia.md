@@ -1,7 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 <p> Para o desenvolvimento do projeto, a equipe escolheu um método de desenvolvimento reconhecido pela agilidade, melhor estruturação do projeto e fortalecimento de entregas sem perder a qualidade. Desta forma, optou-se pelo uso do Scrum.</p>
 <p> Assim, será definida a divisão de papéis individuais da equipe, uma lista do que deverá ser realizado para o desenvolvimento do projeto e o planejamento do esforço que deverá ser colocado em cada um dos itens desta lista.</p>
@@ -31,13 +30,6 @@ etiquetas:
 <p> A gerência de issues será realizada a partir da revisão no desenvolvimento ou durante o próprio desenvolvimento, quando o desenvolvedor encontrar alguma atividade que depende de outra, instabilidade, identificação de bugs, necessidade de adição de uma nova funcionalidade ou, até mesmo, a melhoria.</p>
 
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
@@ -55,10 +47,6 @@ A equipe escolheu o método de desenvolvimento de projeto com base no Scrum, org
   <li>Luan Rubio</li>
  </ul>
 </ul>
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
@@ -75,11 +63,6 @@ A lista descrita acima será desenhada da seguinte forma:
  </ul>
  <li>Done</li>
 </ul>
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ### Ferramentas
 
@@ -97,6 +80,3 @@ necessidades da nossa solução.
 
 As ferramentas empregadas para a organização e desenvolvimento do projeto foi o <b>Github</b>, pela acessibilidade e facilidade do uso do <b>Github Flow</b> para realização das tarefas em equipe.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
