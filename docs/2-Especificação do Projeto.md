@@ -125,7 +125,7 @@
    </tr>
    <tr>
     <td><b>RF-03</b></td>
-    <td>O site deve possuir locais diferentes para anúncios de Design Gráfico e de Programação</td>
+    <td>O site deve possuir um filtro para cada especialização na página de amostragem dos Desenvolvedores disponíveis</td>
     <td>Alta</td>
    </tr>
    <tr>
