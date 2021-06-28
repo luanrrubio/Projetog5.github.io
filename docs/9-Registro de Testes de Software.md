@@ -3,7 +3,7 @@
 
 Os testes de usabilidade foram realizados da seguinte forma:
 <ul>
-  <li>identificação do objetivo dos testes realizados</li>
+  <li>Identificação do objetivo dos testes realizados</li>
   <li>Detalhes da experiência do usuário envolvido nos testes</li>
   <li>Roteirização das atividades realizadas durante a testagem</li>
 </ul>
