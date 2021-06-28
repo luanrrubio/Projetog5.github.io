@@ -120,7 +120,7 @@
 
    <tr>
     <td><b>RF-02</b></td>
-    <td>O site deve possuir um menu que divida os anúncios para contratação de serviços e anúncios de prestadores de serviço disponíveis</td>
+    <td>O site deve possuir um menu que leve o usuário até os anúncios de prestadores de serviço ou para que o usuário se cadastre e ofereça seus serviços</td>
     <td>Alta</td>
    </tr>
    <tr>
