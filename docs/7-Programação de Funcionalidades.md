@@ -37,4 +37,9 @@ A tela de consulta permite ao usuário navegar pelos anúncios disponíveis no s
 
 Permite que o usuário se cadastre no sistema, padronizando as informações necessárias e qual área ele vai querer atuar se for contratado.
 
+<ul>
+  <li>RF-05</li>
+  <li>RF-08 </li>
+</ul>
+
 
